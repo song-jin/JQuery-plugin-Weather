@@ -11,11 +11,11 @@ day:查询天数（Number），可以查询最近五天，也就是说最大是4
 success:回调函数，在函数中写代码
 
 
-回调函数写法:
+回调函数写法:	
+/*
 success:function(result) {
 	//result是参数名，不用改，直接写
-	
-	/*
+
 		result.image --> 今天白天天气的图片
 		result.nImage --> 今天夜间天气图片
 
@@ -34,5 +34,6 @@ success:function(result) {
 		第三天是 thirdDay
 		第四天是 forthDay
 		第五天是 fifthDay
-	*/
+
 }
+*/
