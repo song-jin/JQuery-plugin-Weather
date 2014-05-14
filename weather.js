@@ -1,12 +1,11 @@
 /*
-* weather
-*
-* A simple jQuery plugin to display the current three day weather
-* information using Sina Weather.
+	weather
+	information using Sina Weather.
 */
 (function($) {
 	$.extend({
 		weather:function(options) {
+
 			//add default value
 			options = $.extend({
 				city: '梅州',

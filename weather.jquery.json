@@ -1,0 +1,29 @@
+{
+  "name": "weather",
+  "title": "weather",
+  "description": "A simple jQuery plugin to display the current weather",
+  "keywords": [
+    "weather",
+    "sina",
+    "weather-data"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "sjin",
+    "email": "songw.xie@gmail.com",
+    "url": "http://sjin.sinaapp.com"
+  },
+  "licenses": [
+    {
+      "type": "",
+      "url": ""
+    }
+  ],
+  "homepage": "",
+  "docs": "",
+  "download": "",
+  "demo": "",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
